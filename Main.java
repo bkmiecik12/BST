@@ -5,7 +5,7 @@ import java.util.*;
 import java.io.*;
 public class Main {
 
-    public static  File file = new File("p.txt");
+    public static  File file = new File("t.txt");
     public static BST tree = new BST();
 
 
